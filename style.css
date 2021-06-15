@@ -1,4 +1,12 @@
-body {
+ul {list-style-type: none;
+  display: block;
+  font-size: 20px;
+}
+a {color: Pink;
+  list-style-type: none;
+  display: block;
+}
+
 body {
   background-color: black; 
 }
@@ -94,7 +102,3 @@ h9 {
 
 
 
-
-
-
-}
